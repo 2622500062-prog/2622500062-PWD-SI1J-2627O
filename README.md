@@ -4,4 +4,4 @@ Matakuliah Pemrograman Web Dasar<br>
 Kelompok SI1J<br> 
 Tahun Ajaran 2026/2027<br> 
 Semester Gasal<br><br> 
-![Logo ISBAL](logo isbal.png)
+![Logo ISB](logo%20isbal.png)
