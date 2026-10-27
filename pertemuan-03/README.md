@@ -1,13 +1,11 @@
-# pertemuan 2 - HTML5 Dasar dan struktur semantik
+# pertemuan 3 - HTML5 Dasar dan struktur semantik
 
 ## Artefak 
 - `taklengkap.html` - Latihan error tolerance browser.
 - `emmet.html` - Latihan Emmet dan struktur HTML5.
-- `index.html` - Artefak utama halaman profil P2.
+- `index.html` - Artefak utama halaman profil P3.
 - `img/foto-profil.jpg` - Gambar yang digunakan pada halaman profil.
 
-## Implementasi
-Pada P2 saya membangun halaman profil menggunakan struktur HTML5 yang valid, elemen semantik, teks, daftar, tautan, dan gambar.
 
 ## validasi HTML
 - Berkas yang divalidasi: `index.html`
@@ -16,4 +14,4 @@ Pada P2 saya membangun halaman profil menggunakan struktur HTML5 yang valid, ele
 - Hasil validasi akhir: Valid / No Error or warnings
 
 ## Github Pages
-- URL: https://github.com/2622500062-prog/2622500062-PWD-SI1J-2627O/pertemuan-02/
+- URL: https://github.com/2622500062-prog/2622500062-PWD-SI1J-2627O/pertemuan-03/
